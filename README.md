@@ -12,10 +12,3 @@ A simple Retrieval-Augmented Generation (RAG) agent that answers questions about
 ## Prerequisites
 - Python 3.8 or higher 
 - An OpenAI API key
-
-## Installation
-
-1. **Clone the repo**  
-   ```bash
-   git clone 
-   cd 
